@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+null: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org] # Register null.wip.la
 j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la
 lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la
 pr: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register pr.wip.la
@@ -114,4 +115,3 @@ eric: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Registe
 arturrdc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register arturrdc.wip.la
 powerisinschool: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register powerisinschool.wip.la
 dns: [ns1.desec.io, ns2.desec.org]
-nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
